@@ -1,0 +1,41 @@
+::-webkit-scrollbar {
+  width: 0px;
+}
+.navbar-nav{
+}
+.nav-item{
+  font-size:20px;
+  display:flex;
+  justify-content: space-around;
+  padding-top:17px
+}
+
+a{
+  cursor: pointer;
+}
+.menu-section>ul{
+  margin-left: -44px;
+}
+.menu-section>ul>li{
+  text-decoration: none;
+  list-style: none;
+  height:45px;
+  color: white;
+  margin-left: -40px;
+  margin: 5px;
+}
+.menu-item{
+  padding: 10px 15px;
+}
+
+.menu-section>ul>li:hover{
+  border-left: 10px solid tomato;
+  cursor: pointer;
+  font-size:17px;
+  background-color: rgb(56, 56, 56);
+  margin-top: -5px;
+}
+
+
+
+/* .post-title> */
